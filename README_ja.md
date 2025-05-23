@@ -31,21 +31,21 @@ LabEx は、コーディングとテクノロジーに特化したインタラ�
 
 |   インデックス | 名前                                                                           | 難易度   | 練習                                                                                                                                                   |
 |----------------|--------------------------------------------------------------------------------|----------|--------------------------------------------------------------------------------------------------------------------------------------------------------|
-|             01 | 📖 Nmap でシンプルなシェルをインタラクティブシェルにアップグレードする         | ★☆☆      | <a target='_blank' href='https://labex.io/ja/tutorials/upgrade-simple-shell-to-interactive-shell-in-nmap-416148'>ラボを開始</a>                        |
-|             02 | 📖 Nmap の/etc/passwd ファイルを利用した特権昇格の検証                         | ★★☆      | <a target='_blank' href='https://labex.io/ja/tutorials/explore-privilege-escalation-via-etc-passwd-file-in-nmap-416141'>ラボを開始</a>                 |
-|             03 | 📖 Linux での /etc/shadow ファイルを使用した特権昇格                           | ★☆☆      | <a target='_blank' href='https://labex.io/ja/tutorials/escalate-privileges-using-etc-shadow-file-in-linux-416142'>ラボを開始</a>                       |
-|             04 | 📖 Linux における SUID バイナリの権限昇格エクスプロイト                        | ★☆☆      | <a target='_blank' href='https://labex.io/ja/tutorials/nmap-exploit-suid-binaries-for-privilege-escalation-in-linux-416147'>ラボを開始</a>             |
-|             05 | 📖 Nmap で Cron ジョブと権限昇格を学ぶ                                         | ★☆☆      | <a target='_blank' href='https://labex.io/ja/tutorials/learn-cron-jobs-and-privilege-escalation-in-nmap-416140'>ラボを開始</a>                         |
-|             06 | 📖 Nmap でのワイルドカードインジェクションによる特権昇格                       | ★☆☆      | <a target='_blank' href='https://labex.io/ja/tutorials/perform-wildcard-injection-in-nmap-for-privilege-escalation-416144'>ラボを開始</a>              |
-|             07 | 📖 Nmap での Sudo 権限昇格手法を学ぶ                                           | ★☆☆      | <a target='_blank' href='https://labex.io/ja/tutorials/learn-sudo-privilege-escalation-methods-in-nmap-416145'>ラボを開始</a>                          |
-|             08 | 📖 Nmap での特権昇格のための機密設定ファイルの発見と悪用                       | ★☆☆      | <a target='_blank' href='https://labex.io/ja/tutorials/find-and-exploit-sensitive-config-files-for-privilege-escalation-in-nmap-416138'>ラボを開始</a> |
-|             09 | 📖 Nmap で中間ユーザーを介して Root 権限に昇格する                             | ★☆☆      | <a target='_blank' href='https://labex.io/ja/tutorials/nmap-escalate-privileges-to-root-via-intermediate-user-in-nmap-416146'>ラボを開始</a>           |
-|             10 | 📖 Sucrack と Hydra を使用した Linux における root パスワードのブルートフォ... | ★☆☆      | <a target='_blank' href='https://labex.io/ja/tutorials/brute-force-root-password-in-linux-with-sucrack-and-hydra-416139'>ラボを開始</a>                |
-|             11 | 📖 Nmap で Linux の権限昇格ツールを探索する                                    | ★☆☆      | <a target='_blank' href='https://labex.io/ja/tutorials/explore-linux-privilege-escalation-tools-in-nmap-416143'>ラボを開始</a>                         |
+|             01 | 📖 Nmap でシンプルなシェルをインタラクティブシェルにアップグレードする         | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/upgrade-simple-shell-to-interactive-shell-in-nmap-416148'>ラボを開始</a>                        |
+|             02 | 📖 Nmap の/etc/passwd ファイルを利用した特権昇格の検証                         | 中級     | <a target='_blank' href='https://labex.io/ja/tutorials/explore-privilege-escalation-via-etc-passwd-file-in-nmap-416141'>ラボを開始</a>                 |
+|             03 | 📖 Linux での /etc/shadow ファイルを使用した特権昇格                           | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/escalate-privileges-using-etc-shadow-file-in-linux-416142'>ラボを開始</a>                       |
+|             04 | 📖 Linux における SUID バイナリの権限昇格エクスプロイト                        | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/nmap-exploit-suid-binaries-for-privilege-escalation-in-linux-416147'>ラボを開始</a>             |
+|             05 | 📖 Nmap で Cron ジョブと権限昇格を学ぶ                                         | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/learn-cron-jobs-and-privilege-escalation-in-nmap-416140'>ラボを開始</a>                         |
+|             06 | 📖 Nmap でのワイルドカードインジェクションによる特権昇格                       | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/perform-wildcard-injection-in-nmap-for-privilege-escalation-416144'>ラボを開始</a>              |
+|             07 | 📖 Nmap での Sudo 権限昇格手法を学ぶ                                           | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/learn-sudo-privilege-escalation-methods-in-nmap-416145'>ラボを開始</a>                          |
+|             08 | 📖 Nmap での特権昇格のための機密設定ファイルの発見と悪用                       | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/find-and-exploit-sensitive-config-files-for-privilege-escalation-in-nmap-416138'>ラボを開始</a> |
+|             09 | 📖 Nmap で中間ユーザーを介して Root 権限に昇格する                             | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/nmap-escalate-privileges-to-root-via-intermediate-user-in-nmap-416146'>ラボを開始</a>           |
+|             10 | 📖 Sucrack と Hydra を使用した Linux における root パスワードのブルートフォ... | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/brute-force-root-password-in-linux-with-sucrack-and-hydra-416139'>ラボを開始</a>                |
+|             11 | 📖 Nmap で Linux の権限昇格ツールを探索する                                    | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/explore-linux-privilege-escalation-tools-in-nmap-416143'>ラボを開始</a>                         |
 
 ## その他
 
-- 🔗 [Cybersecurity Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
-- 🔗 [Cybersecurity Programming Projects](https://github.com/labex-labs/awesome-programming-projects)
-- 🔗 [Cybersecurity Free Tutorials](https://github.com/labex-labs/cybersecurity-free-tutorials)
+- 🔗 [Cybersecurity プログラミングコース](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [Cybersecurity プログラミングプロジェクト](https://github.com/labex-labs/awesome-programming-projects)
+- 🔗 [Cybersecurity 無料チュートリアル](https://github.com/labex-labs/cybersecurity-free-tutorials)
 
