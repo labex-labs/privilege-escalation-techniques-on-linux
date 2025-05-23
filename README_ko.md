@@ -31,21 +31,21 @@ LabEx 는 코딩과 기술에 전념하는 대화형 실습 학습 플랫폼입�
 
 |   인덱스 | 이름                                                     | 난이도   | 연습                                                                                                                                                  |
 |----------|----------------------------------------------------------|----------|-------------------------------------------------------------------------------------------------------------------------------------------------------|
-|       01 | 📖 Upgrade Simple Shell to Interactive Shell in Nmap     | ★☆☆      | <a target='_blank' href='https://labex.io/ko/tutorials/upgrade-simple-shell-to-interactive-shell-in-nmap-416148'>실습 시작</a>                        |
-|       02 | 📖 Explore Privilege Escalation via /etc/passwd File ... | ★★☆      | <a target='_blank' href='https://labex.io/ko/tutorials/explore-privilege-escalation-via-etc-passwd-file-in-nmap-416141'>실습 시작</a>                 |
-|       03 | 📖 Escalate Privileges Using /etc/shadow File in Linu... | ★☆☆      | <a target='_blank' href='https://labex.io/ko/tutorials/escalate-privileges-using-etc-shadow-file-in-linux-416142'>실습 시작</a>                       |
-|       04 | 📖 Linux 에서 SUID 바이너리 악용하여 권한 상승           | ★☆☆      | <a target='_blank' href='https://labex.io/ko/tutorials/nmap-exploit-suid-binaries-for-privilege-escalation-in-linux-416147'>실습 시작</a>             |
-|       05 | 📖 Learn Cron Jobs and Privilege Escalation in Nmap      | ★☆☆      | <a target='_blank' href='https://labex.io/ko/tutorials/learn-cron-jobs-and-privilege-escalation-in-nmap-416140'>실습 시작</a>                         |
-|       06 | 📖 Perform Wildcard Injection in Nmap for Privilege E... | ★☆☆      | <a target='_blank' href='https://labex.io/ko/tutorials/perform-wildcard-injection-in-nmap-for-privilege-escalation-416144'>실습 시작</a>              |
-|       07 | 📖 Learn Sudo Privilege Escalation Methods in Nmap       | ★☆☆      | <a target='_blank' href='https://labex.io/ko/tutorials/learn-sudo-privilege-escalation-methods-in-nmap-416145'>실습 시작</a>                          |
-|       08 | 📖 Find and Exploit Sensitive Config Files for Privil... | ★☆☆      | <a target='_blank' href='https://labex.io/ko/tutorials/find-and-exploit-sensitive-config-files-for-privilege-escalation-in-nmap-416138'>실습 시작</a> |
-|       09 | 📖 Escalate Privileges to Root via Intermediate User ... | ★☆☆      | <a target='_blank' href='https://labex.io/ko/tutorials/nmap-escalate-privileges-to-root-via-intermediate-user-in-nmap-416146'>실습 시작</a>           |
-|       10 | 📖 Brute Force Root Password in Linux with Sucrack an... | ★☆☆      | <a target='_blank' href='https://labex.io/ko/tutorials/brute-force-root-password-in-linux-with-sucrack-and-hydra-416139'>실습 시작</a>                |
-|       11 | 📖 Explore Linux Privilege Escalation Tools in Nmap      | ★☆☆      | <a target='_blank' href='https://labex.io/ko/tutorials/explore-linux-privilege-escalation-tools-in-nmap-416143'>실습 시작</a>                         |
+|       01 | 📖 Upgrade Simple Shell to Interactive Shell in Nmap     | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/upgrade-simple-shell-to-interactive-shell-in-nmap-416148'>실습 시작</a>                        |
+|       02 | 📖 Explore Privilege Escalation via /etc/passwd File ... | 중급     | <a target='_blank' href='https://labex.io/ko/tutorials/explore-privilege-escalation-via-etc-passwd-file-in-nmap-416141'>실습 시작</a>                 |
+|       03 | 📖 Escalate Privileges Using /etc/shadow File in Linu... | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/escalate-privileges-using-etc-shadow-file-in-linux-416142'>실습 시작</a>                       |
+|       04 | 📖 Linux 에서 SUID 바이너리 악용하여 권한 상승           | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/nmap-exploit-suid-binaries-for-privilege-escalation-in-linux-416147'>실습 시작</a>             |
+|       05 | 📖 Learn Cron Jobs and Privilege Escalation in Nmap      | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/learn-cron-jobs-and-privilege-escalation-in-nmap-416140'>실습 시작</a>                         |
+|       06 | 📖 Perform Wildcard Injection in Nmap for Privilege E... | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/perform-wildcard-injection-in-nmap-for-privilege-escalation-416144'>실습 시작</a>              |
+|       07 | 📖 Learn Sudo Privilege Escalation Methods in Nmap       | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/learn-sudo-privilege-escalation-methods-in-nmap-416145'>실습 시작</a>                          |
+|       08 | 📖 Find and Exploit Sensitive Config Files for Privil... | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/find-and-exploit-sensitive-config-files-for-privilege-escalation-in-nmap-416138'>실습 시작</a> |
+|       09 | 📖 Escalate Privileges to Root via Intermediate User ... | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/nmap-escalate-privileges-to-root-via-intermediate-user-in-nmap-416146'>실습 시작</a>           |
+|       10 | 📖 Brute Force Root Password in Linux with Sucrack an... | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/brute-force-root-password-in-linux-with-sucrack-and-hydra-416139'>실습 시작</a>                |
+|       11 | 📖 Explore Linux Privilege Escalation Tools in Nmap      | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/explore-linux-privilege-escalation-tools-in-nmap-416143'>실습 시작</a>                         |
 
 ## 더 보기
 
-- 🔗 [Cybersecurity Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
-- 🔗 [Cybersecurity Programming Projects](https://github.com/labex-labs/awesome-programming-projects)
-- 🔗 [Cybersecurity Free Tutorials](https://github.com/labex-labs/cybersecurity-free-tutorials)
+- 🔗 [Cybersecurity 프로그래밍 코스](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [Cybersecurity 프로그래밍 프로젝트](https://github.com/labex-labs/awesome-programming-projects)
+- 🔗 [Cybersecurity 무료 튜토리얼](https://github.com/labex-labs/cybersecurity-free-tutorials)
 
