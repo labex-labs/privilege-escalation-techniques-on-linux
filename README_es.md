@@ -13,6 +13,22 @@ En este curso, aprenderá sobre las técnicas de escalada de privilegios en Linu
 ![Pen-Testing](https://img.shields.io/badge/Pen-Testing-whitesmoke?style=for-the-badge&logo=pen-testing)
 
 
+## Ejercicios
+
+|   Índice | Nombre                                                      | Dificultad   | Práctica                                                                                                                                                        |
+|----------|-------------------------------------------------------------|--------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|       01 | 📖 🔵 Actualizar un Shell Simple a un Shell Interactivo ... | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/upgrade-simple-shell-to-interactive-shell-in-nmap-416148'>Iniciar Laboratorio</a>                        |
+|       02 | 📖 🔵 Explora la escalada de privilegios a través del ar... | Intermedio   | <a target='_blank' href='https://labex.io/es/tutorials/explore-privilege-escalation-via-etc-passwd-file-in-nmap-416141'>Iniciar Laboratorio</a>                 |
+|       03 | 📖 🔵 Escalar Privilegios Usando el Archivo /etc/shadow ... | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/escalate-privileges-using-etc-shadow-file-in-linux-416142'>Iniciar Laboratorio</a>                       |
+|       04 | 📖 🔵 Explotación de Binarios SUID para la Elevación de ... | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/nmap-exploit-suid-binaries-for-privilege-escalation-in-linux-416147'>Iniciar Laboratorio</a>             |
+|       05 | 📖 🔵 Aprende sobre Cron Jobs y Escalada de Privilegios ... | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/learn-cron-jobs-and-privilege-escalation-in-nmap-416140'>Iniciar Laboratorio</a>                         |
+|       06 | 📖 🔵 Realizar Inyección de Comodines en Nmap para Escal... | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/perform-wildcard-injection-in-nmap-for-privilege-escalation-416144'>Iniciar Laboratorio</a>              |
+|       07 | 📖 🔵 Aprende Métodos de Escalada de Privilegios Sudo en... | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/learn-sudo-privilege-escalation-methods-in-nmap-416145'>Iniciar Laboratorio</a>                          |
+|       08 | 📖 🔵 Encontrar y Explotar Archivos de Configuración Sen... | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/find-and-exploit-sensitive-config-files-for-privilege-escalation-in-nmap-416138'>Iniciar Laboratorio</a> |
+|       09 | 📖 🔵 Escalar Privilegios a Root a través de un Usuario ... | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/nmap-escalate-privileges-to-root-via-intermediate-user-in-nmap-416146'>Iniciar Laboratorio</a>           |
+|       10 | 📖 🔵 Fuerza Bruta de la Contraseña de Root en Linux con... | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/brute-force-root-password-in-linux-with-sucrack-and-hydra-416139'>Iniciar Laboratorio</a>                |
+|       11 | 📖 🔵 Explora las Herramientas de Escalada de Privilegio... | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/explore-linux-privilege-escalation-tools-in-nmap-416143'>Iniciar Laboratorio</a>                         |
+
 ## Entorno
 
 LabEx es una plataforma de aprendizaje interactiva y práctica dedicada a la programación y la tecnología. Combina laboratorios, asistencia de IA y máquinas virtuales para proporcionar una experiencia de aprendizaje práctica sin videos.
@@ -23,25 +39,9 @@ LabEx es una plataforma de aprendizaje interactiva y práctica dedicada a la pro
 - Entornos en línea interactivos dentro del navegador, con verificaciones paso a paso automatizadas.
 - Una organización de contenido estructurada con el sistema basado en Árbol de Habilidades.
 - Un recurso de aprendizaje en crecimiento de 30 Árboles de Habilidades y más de 6,000 Laboratorios.
-- El asistente de aprendizaje de IA Labby, construido sobre ChatGPT, que proporciona una experiencia de aprendizaje conversacional.
+- El asistente de aprendizaje Labby, construido sobre los últimos modelos de IA, que proporciona una experiencia de aprendizaje conversacional.
 
 Aprende más sobre [LabEx VM](https://support.labex.io/using-labex/virtual-machine).
-
-## Ejercicios
-
-|   Índice | Nombre                                                   | Dificultad   | Práctica                                                                                                                                                        |
-|----------|----------------------------------------------------------|--------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|       01 | 📖 Actualizar un Shell Simple a un Shell Interactivo ... | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/upgrade-simple-shell-to-interactive-shell-in-nmap-416148'>Iniciar Laboratorio</a>                        |
-|       02 | 📖 Explora la escalada de privilegios a través del ar... | Intermedio   | <a target='_blank' href='https://labex.io/es/tutorials/explore-privilege-escalation-via-etc-passwd-file-in-nmap-416141'>Iniciar Laboratorio</a>                 |
-|       03 | 📖 Escalar Privilegios Usando el Archivo /etc/shadow ... | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/escalate-privileges-using-etc-shadow-file-in-linux-416142'>Iniciar Laboratorio</a>                       |
-|       04 | 📖 Explotación de Binarios SUID para la Elevación de ... | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/nmap-exploit-suid-binaries-for-privilege-escalation-in-linux-416147'>Iniciar Laboratorio</a>             |
-|       05 | 📖 Aprende sobre Cron Jobs y Escalada de Privilegios ... | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/learn-cron-jobs-and-privilege-escalation-in-nmap-416140'>Iniciar Laboratorio</a>                         |
-|       06 | 📖 Realizar Inyección de Comodines en Nmap para Escal... | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/perform-wildcard-injection-in-nmap-for-privilege-escalation-416144'>Iniciar Laboratorio</a>              |
-|       07 | 📖 Aprende Métodos de Escalada de Privilegios Sudo en... | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/learn-sudo-privilege-escalation-methods-in-nmap-416145'>Iniciar Laboratorio</a>                          |
-|       08 | 📖 Encontrar y Explotar Archivos de Configuración Sen... | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/find-and-exploit-sensitive-config-files-for-privilege-escalation-in-nmap-416138'>Iniciar Laboratorio</a> |
-|       09 | 📖 Escalar Privilegios a Root a través de un Usuario ... | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/nmap-escalate-privileges-to-root-via-intermediate-user-in-nmap-416146'>Iniciar Laboratorio</a>           |
-|       10 | 📖 Fuerza Bruta de la Contraseña de Root en Linux con... | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/brute-force-root-password-in-linux-with-sucrack-and-hydra-416139'>Iniciar Laboratorio</a>                |
-|       11 | 📖 Explora las Herramientas de Escalada de Privilegio... | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/explore-linux-privilege-escalation-tools-in-nmap-416143'>Iniciar Laboratorio</a>                         |
 
 ## Más
 
