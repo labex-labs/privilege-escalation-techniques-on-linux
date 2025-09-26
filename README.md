@@ -15,19 +15,19 @@ In this course, you will learn about privilege escalation techniques on Linux. I
 
 ## Exercises
 
-|   Index | Name                                                        | Difficulty   | Practice                                                                                                                                           |
-|---------|-------------------------------------------------------------|--------------|----------------------------------------------------------------------------------------------------------------------------------------------------|
-|      01 | 📖 🔵 Upgrade Simple Shell to Interactive Shell in Nmap     | Beginner     | <a target='_blank' href='https://labex.io/tutorials/upgrade-simple-shell-to-interactive-shell-in-nmap-416148'>Start Lab</a>                        |
-|      02 | 📖 🔵 Explore Privilege Escalation via /etc/passwd File ... | Intermediate | <a target='_blank' href='https://labex.io/tutorials/explore-privilege-escalation-via-etc-passwd-file-in-nmap-416141'>Start Lab</a>                 |
-|      03 | 📖 🔵 Escalate Privileges Using /etc/shadow File in Linu... | Beginner     | <a target='_blank' href='https://labex.io/tutorials/escalate-privileges-using-etc-shadow-file-in-linux-416142'>Start Lab</a>                       |
-|      04 | 📖 🔵 Exploit SUID Binaries for Privilege Escalation in ... | Beginner     | <a target='_blank' href='https://labex.io/tutorials/nmap-exploit-suid-binaries-for-privilege-escalation-in-linux-416147'>Start Lab</a>             |
-|      05 | 📖 🔵 Learn Cron Jobs and Privilege Escalation in Nmap      | Beginner     | <a target='_blank' href='https://labex.io/tutorials/learn-cron-jobs-and-privilege-escalation-in-nmap-416140'>Start Lab</a>                         |
-|      06 | 📖 🔵 Perform Wildcard Injection in Nmap for Privilege E... | Beginner     | <a target='_blank' href='https://labex.io/tutorials/perform-wildcard-injection-in-nmap-for-privilege-escalation-416144'>Start Lab</a>              |
-|      07 | 📖 🔵 Learn Sudo Privilege Escalation Methods in Nmap       | Beginner     | <a target='_blank' href='https://labex.io/tutorials/learn-sudo-privilege-escalation-methods-in-nmap-416145'>Start Lab</a>                          |
-|      08 | 📖 🔵 Find and Exploit Sensitive Config Files for Privil... | Beginner     | <a target='_blank' href='https://labex.io/tutorials/find-and-exploit-sensitive-config-files-for-privilege-escalation-in-nmap-416138'>Start Lab</a> |
-|      09 | 📖 🔵 Escalate Privileges to Root via Intermediate User ... | Beginner     | <a target='_blank' href='https://labex.io/tutorials/nmap-escalate-privileges-to-root-via-intermediate-user-in-nmap-416146'>Start Lab</a>           |
-|      10 | 📖 🔵 Brute Force Root Password in Linux with Sucrack an... | Beginner     | <a target='_blank' href='https://labex.io/tutorials/brute-force-root-password-in-linux-with-sucrack-and-hydra-416139'>Start Lab</a>                |
-|      11 | 📖 🔵 Explore Linux Privilege Escalation Tools in Nmap      | Beginner     | <a target='_blank' href='https://labex.io/tutorials/explore-linux-privilege-escalation-tools-in-nmap-416143'>Start Lab</a>                         |
+|   Index | Name                                                      | Difficulty   | Practice                                                                                                                                           |
+|---------|-----------------------------------------------------------|--------------|----------------------------------------------------------------------------------------------------------------------------------------------------|
+|      01 | 📖  Upgrade Simple Shell to Interactive Shell in Nmap     | Beginner     | <a target='_blank' href='https://labex.io/tutorials/upgrade-simple-shell-to-interactive-shell-in-nmap-416148'>Start Lab</a>                        |
+|      02 | 📖  Explore Privilege Escalation via /etc/passwd File ... | Intermediate | <a target='_blank' href='https://labex.io/tutorials/explore-privilege-escalation-via-etc-passwd-file-in-nmap-416141'>Start Lab</a>                 |
+|      03 | 📖  Escalate Privileges Using /etc/shadow File in Linu... | Beginner     | <a target='_blank' href='https://labex.io/tutorials/escalate-privileges-using-etc-shadow-file-in-linux-416142'>Start Lab</a>                       |
+|      04 | 📖  Exploit SUID Binaries for Privilege Escalation in ... | Beginner     | <a target='_blank' href='https://labex.io/tutorials/nmap-exploit-suid-binaries-for-privilege-escalation-in-linux-416147'>Start Lab</a>             |
+|      05 | 📖  Learn Cron Jobs and Privilege Escalation in Nmap      | Beginner     | <a target='_blank' href='https://labex.io/tutorials/learn-cron-jobs-and-privilege-escalation-in-nmap-416140'>Start Lab</a>                         |
+|      06 | 📖  Perform Wildcard Injection in Nmap for Privilege E... | Beginner     | <a target='_blank' href='https://labex.io/tutorials/perform-wildcard-injection-in-nmap-for-privilege-escalation-416144'>Start Lab</a>              |
+|      07 | 📖  Learn Sudo Privilege Escalation Methods in Nmap       | Beginner     | <a target='_blank' href='https://labex.io/tutorials/learn-sudo-privilege-escalation-methods-in-nmap-416145'>Start Lab</a>                          |
+|      08 | 📖  Find and Exploit Sensitive Config Files for Privil... | Beginner     | <a target='_blank' href='https://labex.io/tutorials/find-and-exploit-sensitive-config-files-for-privilege-escalation-in-nmap-416138'>Start Lab</a> |
+|      09 | 📖  Escalate Privileges to Root via Intermediate User ... | Beginner     | <a target='_blank' href='https://labex.io/tutorials/nmap-escalate-privileges-to-root-via-intermediate-user-in-nmap-416146'>Start Lab</a>           |
+|      10 | 📖  Brute Force Root Password in Linux with Sucrack an... | Beginner     | <a target='_blank' href='https://labex.io/tutorials/brute-force-root-password-in-linux-with-sucrack-and-hydra-416139'>Start Lab</a>                |
+|      11 | 📖  Explore Linux Privilege Escalation Tools in Nmap      | Beginner     | <a target='_blank' href='https://labex.io/tutorials/explore-linux-privilege-escalation-tools-in-nmap-416143'>Start Lab</a>                         |
 
 ## Environment
 
