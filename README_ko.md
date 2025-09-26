@@ -15,19 +15,19 @@
 
 ## 연습
 
-|   인덱스 | 이름                                                                  | 난이도   | 연습                                                                                                                                                  |
-|----------|-----------------------------------------------------------------------|----------|-------------------------------------------------------------------------------------------------------------------------------------------------------|
-|       01 | 📖 🔵 Nmap 에서 단순 셸을 인터랙티브 셸로 업그레이드                  | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/upgrade-simple-shell-to-interactive-shell-in-nmap-416148'>실습 시작</a>                        |
-|       02 | 📖 🔵 Nmap 을 이용한 /etc/passwd 파일 권한 상승 탐구                  | 중급     | <a target='_blank' href='https://labex.io/ko/tutorials/explore-privilege-escalation-via-etc-passwd-file-in-nmap-416141'>실습 시작</a>                 |
-|       03 | 📖 🔵 Linux 에서 /etc/shadow 파일을 이용한 권한 상승                  | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/escalate-privileges-using-etc-shadow-file-in-linux-416142'>실습 시작</a>                       |
-|       04 | 📖 🔵 Linux 에서 SUID 바이너리 악용하여 권한 상승                     | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/nmap-exploit-suid-binaries-for-privilege-escalation-in-linux-416147'>실습 시작</a>             |
-|       05 | 📖 🔵 Nmap 에서 Cron Job 및 권한 상승 학습                            | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/learn-cron-jobs-and-privilege-escalation-in-nmap-416140'>실습 시작</a>                         |
-|       06 | 📖 🔵 Nmap 와일드카드 인젝션을 이용한 권한 상승 실습                  | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/perform-wildcard-injection-in-nmap-for-privilege-escalation-416144'>실습 시작</a>              |
-|       07 | 📖 🔵 Nmap 환경에서 Sudo 권한 상승 방법 배우기                        | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/learn-sudo-privilege-escalation-methods-in-nmap-416145'>실습 시작</a>                          |
-|       08 | 📖 🔵 Nmap 에서 민감한 설정 파일 찾기 및 악용을 통한 권한 상승        | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/find-and-exploit-sensitive-config-files-for-privilege-escalation-in-nmap-416138'>실습 시작</a> |
-|       09 | 📖 🔵 Nmap 을 이용한 중간 사용자 경유 Root 권한 상승                  | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/nmap-escalate-privileges-to-root-via-intermediate-user-in-nmap-416146'>실습 시작</a>           |
-|       10 | 📖 🔵 Sucrack 및 Hydra 를 사용한 Linux Root 비밀번호 무차별 대입 공격 | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/brute-force-root-password-in-linux-with-sucrack-and-hydra-416139'>실습 시작</a>                |
-|       11 | 📖 🔵 Nmap 을 활용한 Linux 권한 상승 도구 탐구                        | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/explore-linux-privilege-escalation-tools-in-nmap-416143'>실습 시작</a>                         |
+|   인덱스 | 이름                                                                | 난이도   | 연습                                                                                                                                                  |
+|----------|---------------------------------------------------------------------|----------|-------------------------------------------------------------------------------------------------------------------------------------------------------|
+|       01 | 📖  Nmap 에서 단순 셸을 인터랙티브 셸로 업그레이드                  | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/upgrade-simple-shell-to-interactive-shell-in-nmap-416148'>실습 시작</a>                        |
+|       02 | 📖  Nmap 을 이용한 /etc/passwd 파일 권한 상승 탐구                  | 중급     | <a target='_blank' href='https://labex.io/ko/tutorials/explore-privilege-escalation-via-etc-passwd-file-in-nmap-416141'>실습 시작</a>                 |
+|       03 | 📖  Linux 에서 /etc/shadow 파일을 이용한 권한 상승                  | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/escalate-privileges-using-etc-shadow-file-in-linux-416142'>실습 시작</a>                       |
+|       04 | 📖  Linux 에서 SUID 바이너리 악용하여 권한 상승                     | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/nmap-exploit-suid-binaries-for-privilege-escalation-in-linux-416147'>실습 시작</a>             |
+|       05 | 📖  Nmap 에서 Cron Job 및 권한 상승 학습                            | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/learn-cron-jobs-and-privilege-escalation-in-nmap-416140'>실습 시작</a>                         |
+|       06 | 📖  Nmap 와일드카드 인젝션을 이용한 권한 상승 실습                  | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/perform-wildcard-injection-in-nmap-for-privilege-escalation-416144'>실습 시작</a>              |
+|       07 | 📖  Nmap 환경에서 Sudo 권한 상승 방법 배우기                        | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/learn-sudo-privilege-escalation-methods-in-nmap-416145'>실습 시작</a>                          |
+|       08 | 📖  Nmap 에서 민감한 설정 파일 찾기 및 악용을 통한 권한 상승        | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/find-and-exploit-sensitive-config-files-for-privilege-escalation-in-nmap-416138'>실습 시작</a> |
+|       09 | 📖  Nmap 을 이용한 중간 사용자 경유 Root 권한 상승                  | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/nmap-escalate-privileges-to-root-via-intermediate-user-in-nmap-416146'>실습 시작</a>           |
+|       10 | 📖  Sucrack 및 Hydra 를 사용한 Linux Root 비밀번호 무차별 대입 공격 | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/brute-force-root-password-in-linux-with-sucrack-and-hydra-416139'>실습 시작</a>                |
+|       11 | 📖  Nmap 을 활용한 Linux 권한 상승 도구 탐구                        | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/explore-linux-privilege-escalation-tools-in-nmap-416143'>실습 시작</a>                         |
 
 ## 환경
 
